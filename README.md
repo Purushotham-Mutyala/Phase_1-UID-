@@ -14,17 +14,11 @@
 ![Portfolio Banner](https://via.placeholder.com/1200x400/4a6cf7/ffffff?text=Purushotham's+Portfolio) 
 *(Replace with your actual banner image URL)*
 
-[![GitHub stars](https://img.shields.io/github/stars/Purushotham-Mutyala/Phase_1-UID-?style=for-the-badge)](https://github.com/Purushotham-Mutyala/Phase_1-UID-/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Purushotham-Mutyala/Phase_1-UID-?style=for-the-badge)](https://github.com/Purushotham-Mutyala/Phase_1-UID-/network)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 </div>
 
 ## 🌟 About This Project
 
-Welcome to my **stunning portfolio website**! This is Phase 1 of my User Interface Design journey, where I've combined **elegant design** with **powerful functionality** to showcase my skills and projects. 
-
-> "Good design is obvious. Great design is transparent." — Joe Sparano
+Welcome to my **portfolio website**! This is Phase 1 of my User Interface Design journey, where I've combined **elegant design** with **powerful functionality**. 
 
 ## 🚀 Live Demo
 
@@ -41,8 +35,6 @@ Welcome to my **stunning portfolio website**! This is Phase 1 of my User Interfa
 | Category       | Technologies                                                                 |
 |----------------|------------------------------------------------------------------------------|
 | **Frontend**   | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frameworks** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white) |
-| **Design**     | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) |
 | **Tools**      | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 </div>

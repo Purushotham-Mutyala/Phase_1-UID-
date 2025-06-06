@@ -11,8 +11,8 @@
 
 <div align="center">
   
-![Portfolio Banner](https://via.placeholder.com/1200x400/4a6cf7/ffffff?text=Purushotham's+Portfolio) 
-*(Replace with your actual banner image URL)*
+![Portfolio Banner https://upload.wikimedia.org/wikipedia/commons/5/5f/New_York_City_skyline_banner.jpg) 
+
 
 </div>
 

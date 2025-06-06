@@ -51,14 +51,20 @@ Welcome to my **portfolio website**! This is Phase 1 of my User Interface Design
 ## 📂 Project Structure
 
 ```bash
-Phase_1-UID-/
-├── assets/
-│   ├── css/          # All CSS stylesheets
-│   ├── js/           # JavaScript files
-│   ├── images/       # All images and graphics
-│   └── fonts/        # Custom fonts
-├── index.html        # Main landing page
-├── about.html        # About me section
-├── projects.html     # Projects showcase
-├── contact.html      # Contact information
-└── README.md         # You are here :)
+├── assets
+│   └── images
+│       ├── image.jpg
+│       ├── image1.jpg
+│       ├── logo.jpg
+│       ├── proj1_img.png
+│       └── proj2_img.png
+├── index.html
+├── project-1
+│   ├── clock.css
+│   ├── clock.html
+│   └── clock.js
+├── project-2
+│   ├── card.css
+│   └── card.html
+├── README.md
+└── style.css

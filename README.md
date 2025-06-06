@@ -10,10 +10,6 @@
 # ✨ Portfolio Website ✨
 
 <div align="center">
-  
-![Portfolio Banner] https://upload.wikimedia.org/wikipedia/commons/5/5f/New_York_City_skyline_banner.jpg) 
-
-
 </div>
 
 ## 🌟 About This Project
